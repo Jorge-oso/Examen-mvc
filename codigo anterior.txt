@@ -1,0 +1,19 @@
+		<!--
+		<ul class="gridder">
+			<li class="gridder-list" data-griddercontent="#gridder-content-0">
+				<img src="img/Diademuertos.gif" class="img-responsive">
+			</li>
+		</ul>
+
+		<div id="gridder-content-0" class="gridder-content">
+			<div class="row">
+				<div class="col-sm-6">
+					<img src="img/Diademuertos.gif" class="img-responsive">
+				</div>
+
+				<div class="col-sm-6">
+					<h2 class="letra3">Día de muertos</h2>
+					<p class="letra4">El día de muertos es genial</p>
+				</div>
+			</div>
+		</div>-->
